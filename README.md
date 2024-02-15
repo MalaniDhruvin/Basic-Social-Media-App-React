@@ -1,5 +1,5 @@
-#Basic Social Media App
-This Application is Created Using React Js And Local Storage Api
-So user Can Save Their Created Post
-
-#React #Vite
+#Basic Social Media App<br>
+This Application is Created Using React Js And Local Storage Api<br>
+So user Can Save Their Created Post<br>
+<br>
+#React #Vite<br>
